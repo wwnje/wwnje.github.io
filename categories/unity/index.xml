@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on wwnje</title>
-    <link>http://wwnje.github.io/</link>
-    <description>Recent content in Home on wwnje</description>
+    <title>unity on wwnje</title>
+    <link>http://wwnje.github.io/categories/unity/</link>
+    <description>Recent content in unity on wwnje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://wwnje.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wwnje.github.io/categories/unity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>http://wwnje.github.io/blog/protobuf-speed-optimization/</guid>
       <description>&lt;p&gt;optimization &lt;code&gt; Messages.Descriptor.Fields.InDeclarationOrder()&lt;/code&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Wwnje</title>
-      <link>http://wwnje.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wwnje.github.io/about/</guid>
-      <description>🚶 Just a walking man. </description>
     </item>
     
   </channel>

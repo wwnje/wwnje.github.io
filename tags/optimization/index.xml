@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on wwnje</title>
+    <link>http://wwnje.github.io/tags/optimization/</link>
+    <description>Recent content in optimization on wwnje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://wwnje.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Protobuf Speed Optimization</title>
+      <link>http://wwnje.github.io/blog/protobuf-speed-optimization/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://wwnje.github.io/blog/protobuf-speed-optimization/</guid>
+      <description>&lt;p&gt;optimization &lt;code&gt; Messages.Descriptor.Fields.InDeclarationOrder()&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

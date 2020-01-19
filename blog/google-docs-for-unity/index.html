@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Google Docs For Unity - wwnje</title>
+    <meta property="og:title" content="Google Docs For Unity - wwnje">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+      
+    
+
+    
+      
+      <meta property="description" content="使用GoogleDrive和Google Script实现Unity和Google Sheets的云同步
+[&amp;hellip;] path:Assets\Settings\GoogleDriveConfig
+Web Service Url:Google Script Url
+Spreadsheet Id:Google Drive Folder Id
+Service Password: Google &amp;hellip;">
+      <meta property="og:description" content="使用GoogleDrive和Google Script实现Unity和Google Sheets的云同步
+[&amp;hellip;] path:Assets\Settings\GoogleDriveConfig
+Web Service Url:Google Script Url
+Spreadsheet Id:Google Drive Folder Id
+Service Password: Google &amp;hellip;">
+      
+    
+
+    
+    
+    <meta name="twitter:image" content="http://img.orvnge.com/uploads/2001/030936021381.png">
+    
+    
+
+    
+
+    
+    
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  
+  <body class="blog">
+    <header class="masthead">
+      <h1><a href="/">wwnje</a></h1>
+
+<p class="tagline">Life is casual.</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" />
+  <label id="menu-label" for="menu-check" class="unselectable">
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/blog/">blog</a></li>
+  
+  <li><a href="/categories/">categories</a></li>
+  
+  <li><a href="/tags/">tags</a></li>
+  
+  <li><a href="/about/">about</a></li>
+  
+  <li><a href="http://orvnge.com/Blog/">archive</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>Google Docs For Unity</h1>
+
+<h3>wwnje
+  /  2020-01-02</h3>
+<hr>
+
+
+      </header>
+
+
+
+<p>使用GoogleDrive和Google Script实现Unity和Google Sheets的云同步</p>
+<h2 id="setup">Setup</h2>
+<h3 id="unity">Unity</h3>
+<p>path:Assets\Settings\GoogleDriveConfig</p>
+<p><img src="http://img.orvnge.com/uploads/2001/030936021381.png" alt=""></p>
+<p>Web Service Url:Google Script Url</p>
+<p><img src="http://img.orvnge.com/uploads/2001/030939197904.png" alt=""></p>
+<p>Spreadsheet Id:Google Drive Folder Id</p>
+<p><img src="http://img.orvnge.com/uploads/2001/030938304771.png" alt=""></p>
+<p>Service Password: Google Script Password</p>
+<p>File Path:本地配置表储存位置，相对路径</p>
+<h3 id="google-drive">Google Drive</h3>
+<p>在谷歌网盘上找一个文件夹，找到上述Spreadsheet Id即可，里面存储自己需要的excel文件，共享给项目中每个成员即可，这样就可以云同步文档。</p>
+<blockquote>
+<p>注意事项</p>
+</blockquote>
+<ol>
+<li>所有需要读取的文档都应存储在该文件下，不能存储在其子文件夹下</li>
+<li>文档的大小不得超过50m</li>
+<li>如果不想转为Google Sheet格式，可以关闭设置</li>
+</ol>
+<p><img src="http://img.orvnge.com/uploads/2001/030943259705.png" alt=""></p>
+<h3 id="google-script部署">Google Script部署</h3>
+<ol>
+<li>在script.google.com中新建自己的项目，并添加 一个脚本</li>
+<li>脚本源码见Github中Code.gs，其中<code>var PASSWORD = &quot;password&quot;;</code>密码就是Unity中password需要配置的。</li>
+</ol>
+<h4 id="部署">部署</h4>
+<p><img src="http://img.orvnge.com/uploads/2001/030953502561.png" alt=""></p>
+<p><img src="http://img.orvnge.com/uploads/2001/030954432772.png" alt=""></p>
+<p>最后更新获得Unity中的Web Service Url</p>
+<h2 id="use">Use</h2>
+<p>在Unity中Tools/Google Drive Connector中有对应选项，目前有同步所有文档和同步单个文档的功能</p>
+<ol>
+<li>Loading all Sheets：同步所有文档</li>
+<li>Loading single Sheet id：同步单个文档</li>
+</ol>
+<h2 id="参考">参考</h2>
+<p><a href="https://developers.google.com/apps-script/reference/drive/drive-app">DriveApp API</a></p>
+<h2 id="源码">源码</h2>
+<p><a href="https://github.com/wwnje/Google-Docs-For-Unity">github</a></p>
+
+  <footer>
+  
+  
+
+  
+  <hr>
+  <div class="copyright">© <a href="https://orvnge.com">wwnje</a> 2020 | <a href="https://github.com/wwnje">Github</a> | <a href="https://space.bilibili.com/4480216">Bilibili</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+
