@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev on wwnje</title>
+    <link>http://wwnje.github.io/tags/dev/</link>
+    <description>Recent content in dev on wwnje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:03 +0800</lastBuildDate>
+    
+	<atom:link href="http://wwnje.github.io/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>😊Project Run:Dev 00</title>
+      <link>http://wwnje.github.io/blog/dev_run_00/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:03 +0800</pubDate>
+      
+      <guid>http://wwnje.github.io/blog/dev_run_00/</guid>
+      <description> 移动平台： 轻量  良好的手感研究（如何整合移动和方向）   屏障  黄油加速？ 碰到撞到的东西    </description>
+    </item>
+    
+  </channel>
+</rss>
