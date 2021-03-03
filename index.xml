@@ -1,51 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on wwnje</title>
+    <title>Home - blog of wwnje</title>
     <link>http://wwnje.github.io/</link>
-    <description>Recent content in Home on wwnje</description>
+    <description>Recent content in Home on blog of wwnje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://wwnje.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>😊Project Run:Dev 00</title>
-      <link>http://wwnje.github.io/blog/dev_run_00/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:03 +0800</pubDate>
-      
-      <guid>http://wwnje.github.io/blog/dev_run_00/</guid>
-      <description> 移动平台： 轻量  良好的手感研究（如何整合移动和方向）   屏障  黄油加速？ 碰到撞到的东西    </description>
-    </item>
+        <atom:link href="http://wwnje.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Google Docs For Unity</title>
-      <link>http://wwnje.github.io/blog/google-docs-for-unity/</link>
+      <title>Blogs</title>
+      <link>http://wwnje.github.io/blog/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://wwnje.github.io/blog/google-docs-for-unity/</guid>
-      <description>&lt;p&gt;使用GoogleDrive和Google Script实现Unity和Google Sheets的云同步&lt;/p&gt;</description>
+      <guid>http://wwnje.github.io/blog/</guid>
+      <description></description>
     </item>
-    
-    <item>
-      <title>Protobuf Speed Optimization</title>
-      <link>http://wwnje.github.io/blog/protobuf-speed-optimization/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://wwnje.github.io/blog/protobuf-speed-optimization/</guid>
-      <description>&lt;p&gt;optimization &lt;code&gt; Messages.Descriptor.Fields.InDeclarationOrder()&lt;/code&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Wwnje</title>
-      <link>http://wwnje.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wwnje.github.io/about/</guid>
-      <description>🚶 Just a walking man. </description>
-    </item>
-    
   </channel>
 </rss>
