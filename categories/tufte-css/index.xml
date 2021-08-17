@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tufte-css on KIDSTYO</title>
+    <link>https://wwnje.github.io/categories/tufte-css/</link>
+    <description>Recent content in tufte-css on KIDSTYO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://wwnje.github.io/categories/tufte-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More math $\xi_{(even-in-the-title-!)}$</title>
+      <link>https://wwnje.github.io/posts/more-maths/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      
+      <guid>https://wwnje.github.io/posts/more-maths/</guid>
+      <description>&lt;p&gt;A compilation of $\LaTeX$ formulas&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo-Tufte Features</title>
+      <link>https://wwnje.github.io/posts/tufte-features/</link>
+      <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
+      
+      <guid>https://wwnje.github.io/posts/tufte-features/</guid>
+      <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
+of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;. 
+
+
+  &lt;section&gt;
+
+    
+&lt;/p&gt;
+&lt;h2 id=&#34;a-bit-about-mathematics&#34;&gt;A Bit About Mathematics&lt;/h2&gt;
+&lt;div class=&#34;epigraph&#34;&gt;
+&lt;blockquote&gt;
+
+&lt;p&gt;This is an example of an epigraph with some math
+$ \mathbb N \subseteq \mathbb R $
+to start the beginning of a section.&lt;/p&gt;
+
+&lt;footer&gt;
+Shawn O&amp;#39;Hare, 
+
+&lt;cite&gt;Math is Fun&lt;/cite&gt;
+&lt;/a&gt;
+
+&lt;/footer&gt;
+
+&lt;blockquote&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

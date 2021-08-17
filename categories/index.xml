@@ -1,21 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - blog of wwnje</title>
+    <title>Categories on KIDSTYO</title>
     <link>https://wwnje.github.io/categories/</link>
-    <description>Recent content in Categories on blog of wwnje</description>
+    <description>Recent content in Categories on KIDSTYO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 21:27:57 +0800</lastBuildDate>
-    
-        <atom:link href="https://wwnje.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://wwnje.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test hello</title>
-      <link>https://wwnje.github.io/categories/test-hello/</link>
-      <pubDate>Wed, 03 Mar 2021 21:27:57 +0800</pubDate>
+      <title>katex</title>
+      <link>https://wwnje.github.io/categories/katex/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>https://wwnje.github.io/categories/test-hello/</guid>
+      <guid>https://wwnje.github.io/categories/katex/</guid>
       <description></description>
     </item>
+    
+    <item>
+      <title>latex</title>
+      <link>https://wwnje.github.io/categories/latex/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      
+      <guid>https://wwnje.github.io/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte-css</title>
+      <link>https://wwnje.github.io/categories/tufte-css/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      
+      <guid>https://wwnje.github.io/categories/tufte-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://wwnje.github.io/categories/fun/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwnje.github.io/categories/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://wwnje.github.io/categories/hugo/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwnje.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://wwnje.github.io/categories/test/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwnje.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
